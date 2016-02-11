@@ -10,4 +10,7 @@
     <string name="capstone">Capstone:My own App</string>
     <string name="my_nano_app">My Nanodegree App</string>
     <string name="this_button_will_launch_my">This button will launch my</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
