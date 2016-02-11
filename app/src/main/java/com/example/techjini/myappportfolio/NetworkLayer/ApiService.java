@@ -23,7 +23,9 @@ import retrofit.http.Query;
  * Created by Shakeeb on 1/11/2016
  */
 public interface ApiService {
-    String baseURL="http://image.tmdb.org/t/p/w185";
+    final String baseURL="http://image.tmdb.org/t/p/w185";
+    final String API_KEY="YOUR_API_KEY";
+
 
     //String baseURL="http://52.25.62.3/api/rest/techjini/";
     //http://52.25.62.3/api/rest/techjini/products/list/zipcode/560010/tokenid/9dc7777af14d3a886132fc1fda72b22a

@@ -6,4 +6,6 @@
     <color name="color_9575CD">#9575CD</color>
     <color name="color_009688">#009688</color>
     <color name="color_cccccc">#cccccc</color>
+    <color name="body_text_white">#FFFFFFFF</color>
+
 </resources>
